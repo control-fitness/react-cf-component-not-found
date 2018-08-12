@@ -1,19 +1,13 @@
-# react-component-base
+# react-cf-component-not-found
 
-React Component Base.
+Not found component for Control Fitness.
 
-Clone repository
+> This component work with https://www.npmjs.com/package/found.
 
-    $ git clone https://github.com/js-ni/react-component-base.git
+Example
 
-Install dependencies
+    import NotFound from 'react-cf-component-not-found';
 
-    $ yarn
-
-Run docs
-
-    $ yarn start
-
-Run dist
-
-    $ yarn dist
+    ...
+    renderError: ({ error }) => (NotFound),
+    ...

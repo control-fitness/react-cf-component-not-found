@@ -1,7 +1,7 @@
 import React from 'react';
 import Cdn from 'react-cf-helper-cdn';
 import I18n from 'react-cf-helper-i18n';
-import { Link } from 'found';
+import { Link } from 'react-router-dom';
 import {
   Container,
   Grid,

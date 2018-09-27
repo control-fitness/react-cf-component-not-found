@@ -1,12 +1,12 @@
 import React from 'react';
-import { Link } from 'found';
+import { BrowserRouter as Router, Route } from 'react-router-dom';
+import NotFound from '../src';
 
-function App({ children }) {
+function App() {
   return (
-    <div>
-      <Link to="/404">Example</Link>
-      {children}
-    </div>
+    <Router>
+      <Route path="/" component={NotFound} />
+    </Router>
   );
 }
 

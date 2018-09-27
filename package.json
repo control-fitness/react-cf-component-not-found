@@ -1,6 +1,6 @@
 {
   "name": "react-cf-component-not-found",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Not found component for Control Fitness.",
   "main": "index.js",
   "repository": "https://github.com/control-fitness/react-cf-component-not-found.git",
@@ -19,7 +19,7 @@
   "dependencies": {
     "react": "^16.4.1",
     "react-cf-helper-cdn": "^0.0.1",
-    "react-cf-helper-i18n": "^0.1.1",
+    "react-cf-helper-i18n": "^0.1.2",
     "react-dom": "^16.4.1",
     "react-router-dom": "^4.3.1",
     "semantic-ui-react": "^0.82.2",

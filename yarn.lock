@@ -4193,9 +4193,9 @@ react-cf-helper-cdn@^0.0.1:
   version "0.0.1"
   resolved "https://registry.yarnpkg.com/react-cf-helper-cdn/-/react-cf-helper-cdn-0.0.1.tgz#e185b931261ed1d5c83124224373a2d023628ca9"
 
-react-cf-helper-i18n@^0.1.1:
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/react-cf-helper-i18n/-/react-cf-helper-i18n-0.1.1.tgz#020d998de4afb16cfe59f45b594cd425255bb596"
+react-cf-helper-i18n@^0.1.2:
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/react-cf-helper-i18n/-/react-cf-helper-i18n-0.1.2.tgz#4747051b2a23c7f9547290d58106bc249aaff8dd"
   dependencies:
     js-cookie "^2.2.0"
 
